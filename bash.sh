@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "v3 feature"
+echo "v4 feature"
